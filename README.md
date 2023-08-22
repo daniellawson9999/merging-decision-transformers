@@ -6,7 +6,7 @@
 
 Code for [Merging Decision Transformers](https://arxiv.org/abs/2303.07551).
 
-```
+```Bibtex
 @misc{lawson2023merging,
       title={Merging Decision Transformers: Weight Averaging for Forming Multi-Task Policies}, 
       author={Daniel Lawson and Ahmed H. Qureshi},
