@@ -1,0 +1,3 @@
+.vscode/
+__pycache__
+./decision_transformer/models
