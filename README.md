@@ -4,7 +4,7 @@
   <img width="33%" src="./fig.png" />
 </p> -->
 
-Code for [Merging Decision Transformers](https://arxiv.org/abs/2303.07551)
+Code for [Merging Decision Transformers](https://arxiv.org/abs/2303.07551).
 
 ```
 @misc{lawson2023merging,
